@@ -1,2 +1,2 @@
-# repo_demo
-Demo repository
+# Repository Demo 
+Demo repository by **Edureka**
